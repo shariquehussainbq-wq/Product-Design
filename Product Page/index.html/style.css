@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Product Design</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<section class="products">
+		<h2>Our Products</h2>
+		<div class="all-products">
+			<div class="product">
+				<img src="assets/shoesss-removebg-preview.png" alt="Shoe" class="fixed-image">
+				<div class="product-info">
+					<h4 class="product-title">Standard</h4>
+					<p>
+                        
+                       Step into the perfect blend of comfort and performance. Featuring a breathable mesh upper, responsive Zoom air cushioning, and a rubber outsole
+                        with strategic 
+                       grip patterns, these sneakers keep you light on your feet whether you're hitting the gym or strolling through the city.
+                    </p><h4>
+                    <p class="product-price">$129</p><h4>
+                    <a href="#" class="btn">ADD TO CART</a>
+				</div>
+			</div>
+			<div class="product">
+				<img src="assets/shoess-removebg-preview.png" alt="Shoe" class="fixed-image">
+				<div class="product-info">
+					<h4 class="product-title">Pro
+					</h4>
+					<p>
+                        Dominate every stride with our engineered racing shoe. Crafted from ultra light carbon fiber mesh, it offers maximum breathability while maintaining a snug,
+                         supportive fit. The dual density EVA midsole delivers unmatched shock absorption and energy return, propelling you forward with each step.
+                    </p><h4>
+                    <p class="product-price">$299</p><h4>
+					<a href="#" class="btn">ADD TO CART</a>
+                     
+				</div>
+			</div>
+			<div class="product">
+				<img src="assets/shoessss-removebg-preview.png" alt="Shoe" class="fixed-image">
+				<div class="product-info">
+					<h4 class="product-title">Premium
+					</h4>
+					<p>
+                        Experience unrivaled luxury with our handcrafted leather sneaker. Each pair is meticulously stitched from the finest full grain leather,
+                         offering a buttery soft feel that molds to your foot over time. A lightweight, 
+                         responsive foam midsole delivers cloud 
+                         while the polished rubber outsole provides timeless grip.
+                        
+                    </p><h4>
+                    <p class="product-price">$999</p><h4>
+					<a href="#" class="btn">ADD TO CART</a>
+
+				</div>
+			</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</body>
+</html>
